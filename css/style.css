@@ -3,10 +3,17 @@
   margin: 0;
   box-sizing: border-box;
 }
-body{
+/*body{
   background-image: url(https://images.unsplash.com/photo-1593305841991-05c297ba4575?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2714&q=80);  
   background-size: 1440px 1000px;
   background-repeat: no-repeat;
+}*/
+.background{
+  background-image: url(https://images.unsplash.com/photo-1593305841991-05c297ba4575?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2714&q=80);  
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+
 }
 img{
   max-width: 100%;
